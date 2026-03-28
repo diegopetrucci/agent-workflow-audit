@@ -25,6 +25,10 @@ Trigger the skill when you want to optimize the agent workflow for the current r
 - **Claude Code:** `/agent-workflow-audit`
 - Or say: "audit this repo for agent waste", "optimize the agent workflow", or "try the build and test flow and report unclear instructions"
 
+## More Skills Like This
+
+Found this skill useful? Browse all my hand-crafted ones in the [AI Agents skills](https://github.com/diegopetrucci/ai-agents-skills) repo.
+
 ## License
 
 MIT
