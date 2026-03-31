@@ -1,0 +1,5 @@
+{
+  "name": "agent-workflow-audit",
+  "description": "Stress-test a repo's agent-facing workflow and report issues",
+  "version": "1.0.0"
+}
