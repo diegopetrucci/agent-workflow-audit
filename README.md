@@ -14,17 +14,17 @@ When you want to optimize a repository for agent execution, this skill follows t
 
 ## Installation
 
+### As a skill
+
+```bash
+npx skills add https://github.com/diegopetrucci/agent-workflow-audit --skill agent-workflow-audit
+```
+
 ### As a Claude Code plugin
 
 ```shell
 /plugin marketplace add diegopetrucci/ai-agents-skills
 /plugin install agent-workflow-audit@diegopetrucci-claude-plugins
-```
-
-### As a skill
-
-```bash
-npx skills add https://github.com/diegopetrucci/agent-workflow-audit --skill agent-workflow-audit
 ```
 
 ## Usage
