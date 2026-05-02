@@ -27,6 +27,14 @@ npx skills add https://github.com/diegopetrucci/agent-workflow-audit --skill age
 /plugin install agent-workflow-audit@diegopetrucci-claude-plugins
 ```
 
+### As a Codex plugin
+
+```shell
+codex plugin marketplace add diegopetrucci/ai-agents-skills
+```
+
+Restart Codex, then install `agent-workflow-audit` from the "Diego Petrucci Agent Skills" marketplace in the plugin directory.
+
 ## Usage
 
 Trigger the skill when you want to optimize the agent workflow for the current repository:
