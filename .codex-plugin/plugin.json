@@ -1,6 +1,6 @@
 {
   "name": "agent-workflow-audit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Stress-test a repo's agent-facing workflow and report issues.",
   "author": {
     "name": "Diego Petrucci",

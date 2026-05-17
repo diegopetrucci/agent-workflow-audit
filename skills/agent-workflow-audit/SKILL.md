@@ -4,7 +4,7 @@ description: Audit the current repository for agent workflow efficiency. Use whe
 license: MIT
 metadata:
   author: Diego Petrucci
-  version: "1.0"
+  version: "1.1"
 ---
 
 # Agent Workflow Audit
