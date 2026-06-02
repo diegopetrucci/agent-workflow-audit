@@ -1,6 +1,6 @@
 {
   "name": "agent-workflow-audit",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Stress-test a repo's agent-facing workflow and report issues.",
   "author": {
     "name": "Diego Petrucci",
@@ -16,6 +16,9 @@
     "longDescription": "Stress-test repository instructions, setup, build, test, lint, and run workflows to find avoidable agent friction.",
     "developerName": "Diego Petrucci",
     "category": "Developer Tools",
-    "capabilities": ["Read", "Execute"]
+    "capabilities": ["Read", "Execute"],
+    "defaultPrompt": [
+      "Audit this repo's agent workflow."
+    ]
   }
 }
